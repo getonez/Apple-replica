@@ -1,0 +1,31 @@
+.second-hightlight-wrapper {
+	background-image: url("../../../images/home/macbookair-new.jpg");
+	height: 580px;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    background-size: initial;
+    background-color: #fbfbfd;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;	
+	margin-bottom: 10px
+}
+.new-alert {
+	color: #BF4801;
+	font-size: 18px;
+}
+
+@media (max-width: 768px) {
+	.second-hightlight-wrapper{
+	background-image: url("../../../images/home/macbookair-new-sm.jpg");
+	height: 580px;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    background-size: initial;
+    background-color: #fbfbfd;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;	
+	margin-bottom: 10px
+	}
+}

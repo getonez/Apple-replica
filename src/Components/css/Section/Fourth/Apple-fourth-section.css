@@ -1,0 +1,40 @@
+.fourth-heghlight-wrapper .left-side-wrapper .left-side-container{
+	background-image:  url("../../../images/home/iphone11-colored.jpg");
+    min-height: 515px; 
+	background-color: #000;
+	padding-top: 35px;
+	margin: 0 0 10px 0;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    background-size: cover;		
+}
+.fourth-heghlight-wrapper .right-side-wrapper .right-side-container{
+	background-image:  url("../../../images/home/apple-blue-logo.jpg");
+    min-height: 515px; 
+	background-color: #165ca9;
+	background-position: 225px 135%;
+    /* background-position: bottom; */
+    /* background-position-y: 90%; */
+    padding-top: 35px;
+	margin: 0 0 10px 0;
+	background-size: auto;
+	background-repeat: no-repeat;
+}
+.links-wrapper.white li a {
+	color: #fff;
+}
+.fourth-heghlight-wrapper .right-side-wrapper .title-wraper {
+    max-width: 380px;
+}
+.fourth-heghlight-wrapper{
+    font-size: 20px;
+}
+.title-wraper{
+    font-size: 30px;
+}
+.title-wraper p {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.15em;
+    letter-spacing: -0.04em;
+}

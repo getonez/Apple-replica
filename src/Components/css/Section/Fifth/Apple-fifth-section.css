@@ -1,0 +1,45 @@
+.fifth-heghlight-wrapper .left-side-wrapper .left-side-container{
+	background-image:  url("../../../images/home/actors.jpg"); 
+	background-color: #000;
+	padding-top: 35px;
+	margin: 0 0 10px 0;
+	background-size: cover;		
+}
+.fifth-heghlight-wrapper .right-side-wrapper .right-side-container{
+	background-image:  url("../../../images/home/watch-lg.jpg"); 
+	background-color: #fbfbfd;
+    background-repeat: no-repeat;
+	background-position: bottom;
+	padding-top: 35px;
+	margin: 0 0 10px 0;
+	background-size: auto;	
+}
+.right-side-container{
+    min-height: 515px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.fifth-heghlight-wrapper .description-wraper {
+	max-width: 450px;
+	margin: 7px auto;
+}
+.right-side-wrapper {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.watch-more-wrapper a {
+	text-decoration: none;
+	font-size: 0.85em;
+	color: #fff;
+}
+.watch-more-wrapper a:after {
+    font-family: "FontAwesome";
+    font-weight: 900;
+    content: "\f144";
+    padding-left: 15px;
+}
+.tvshow-logo-wraper {
+	padding: 340px 0 0px;
+}
